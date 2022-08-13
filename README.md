@@ -1,3 +1,3 @@
 # musictarin.com-crawler
-Install requirements.txt
+Install requirements.txt \
 Run main.py
